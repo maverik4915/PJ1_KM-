@@ -505,7 +505,6 @@
 				A992251C1F48E56000230DF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		A992251D1F48E56000230DF1 /* Build configuration list for PBXNativeTarget "PJ1_KMTests" */ = {
 			isa = XCConfigurationList;
@@ -514,7 +513,6 @@
 				A992251F1F48E56000230DF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		A99225201F48E56000230DF1 /* Build configuration list for PBXNativeTarget "PJ1_KMUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,7 +521,6 @@
 				A99225221F48E56000230DF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
